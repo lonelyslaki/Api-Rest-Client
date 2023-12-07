@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "y5gIzrJYBncXOH08yIP+CF9sm5ElUUwdesXOH9KEopY=",
+  "Source": "MyApiProject",
+  "BasePath": "_content/MyApiProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyApiProject\\wwwroot",
+      "Source": "MyApiProject",
+      "ContentRoot": "C:\\Users\\CARLOS\\Desktop\\Code\\Trabajo\\wwwroot\\",
+      "BasePath": "_content/MyApiProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\CARLOS\\Desktop\\Code\\Trabajo\\wwwroot\\index.html",
+      "SourceId": "MyApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CARLOS\\Desktop\\Code\\Trabajo\\wwwroot\\",
+      "BasePath": "_content/MyApiProject",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\CARLOS\\Desktop\\Code\\Trabajo\\wwwroot\\main.js",
+      "SourceId": "MyApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CARLOS\\Desktop\\Code\\Trabajo\\wwwroot\\",
+      "BasePath": "_content/MyApiProject",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\CARLOS\\Desktop\\Code\\Trabajo\\wwwroot\\style.css",
+      "SourceId": "MyApiProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CARLOS\\Desktop\\Code\\Trabajo\\wwwroot\\",
+      "BasePath": "_content/MyApiProject",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
